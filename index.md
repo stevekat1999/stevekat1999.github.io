@@ -7,13 +7,5 @@
 ## Header 2
 ### Header 3
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-![Image]()[Link](https://www.linkedin.com/in/steven-kattouf/) 
+[My LinkedIn](https://www.linkedin.com/in/steven-kattouf/) 
 ```
