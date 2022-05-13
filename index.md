@@ -15,5 +15,5 @@
 
 **Bold** and _Italic_ and `Code` text
 
-[Link](https://linkedin.com/) and ![Image](src)
+![Image]()[Link](https://www.linkedin.com/in/steven-kattouf/) 
 ```
