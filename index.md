@@ -16,6 +16,8 @@
 <!-- <img src="image url" alt="image title" width="200"/> -->
 ![](IMG-3256.JPG)
 
+# Google My Map Assignment 
+<iframe src="https://www.google.com/maps/d/embed?mid=1-mp_Hc652xhvs_aEKSE4MgXHvvSvI-B3&ehbc=2E312F" width="640" height="480"></iframe>
 
 
 ```
