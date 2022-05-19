@@ -14,7 +14,7 @@
     src="https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAFAiEZTvJI&#x2F;view?embed" allowfullscreen="allowfullscreen" allow="fullscreen">
   </iframe>
 </div>
-<a href="https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAFAiEZTvJI&#x2F;view?utm_content=DAFAiEZTvJI&amp;utm_campaign=designshare&amp;utm_medium=embeds&amp;utm_source=link" target="_blank" rel="noopener">Infographic</a> by stevenkattouf
+<a href="https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAFAiEZTvJI&#x2F;view?utm_content=DAFAiEZTvJI&amp;utm_campaign=designshare&amp;utm_medium=embeds&amp;utm_source=link" target="_blank" rel="noopener">Infographic</a> by stevenkattouf 
 
 # Timeline Assignment
 <iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1UBzkD5wF7iHWrda98jc1tKDTleIcoAbWAhkebw2TUsw&font=Default&lang=en&initial_zoom=2&height=650' width='100%' height='650' webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'></iframe>
@@ -25,7 +25,7 @@
 <!-- <img src="image url" alt="image title" width="200"/> -->
 ![](IMG-3256.JPG)
 
-# Google My Map Assignment 
+# Google My Map Assignment  
 <iframe src="https://www.google.com/maps/d/embed?mid=1-mp_Hc652xhvs_aEKSE4MgXHvvSvI-B3&ehbc=2E312F" width="640" height="480"></iframe>
 # Line Chart 
 
